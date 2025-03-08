@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+  <head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/concrete.css/3.0.0/concrete.min.css">
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    {% feed_meta %}
+    {% seo %}
+  </head>
+  <body class="Site">
+    <main class="Site-content">
+      {% include navigation.html %}
+      {{ content }}
+    </main>
+    <footer>
+      <p>
+        <div class="textwidget">
+        <p>
+          <a href="https://discord.gg/Xm3BTCACDb"><button>Discord</button></a>
+          <a href="mailto:spectreteamghost@gmail.com"><button>Email</button></a>
+        </p>
+        </div>
+        
+      </p>
+    </footer>
+  </body>
+</html>

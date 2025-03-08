@@ -1,0 +1,26 @@
+.current {
+  color: purple;
+}
+
+mark.purple {
+  color: purple;
+}
+
+#mid {
+  text-align: center;
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.Site {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.Site-content {
+  flex: 1;
+}
+
+/*# sourceMappingURL=styles.css.map */
