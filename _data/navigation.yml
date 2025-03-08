@@ -1,4 +1,4 @@
 - name: Home
-  link: /
+  link: /projectghostsite
 - name: Logs
-  link: /logs.html
+  link: /projectghostsite/logs.html
