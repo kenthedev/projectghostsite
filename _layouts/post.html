@@ -1,0 +1,31 @@
+---
+
+---
+<!doctype html>
+<html>
+  <head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/concrete.css/3.0.0/concrete.min.css">
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    {% feed_meta %}
+    {% seo %}
+  </head>
+  <body>
+    <main>
+      {% include navigation.html %}
+      <h2 id="mid">{{ page.title }}</h2>
+      <section id="mid">
+        <p>
+            {{ page.date | date_to_string }}
+            {% assign author = site.authors | where: 'short_name', page.author | first %}
+            {% if author %}
+                - <a href="{{ author.url }}">{{ author.name }}</a>
+            {% endif %}
+      </p>
+        </section>
+
+        <section>{{ content }}</section>
+    </main>
+  </body>
+</html>
