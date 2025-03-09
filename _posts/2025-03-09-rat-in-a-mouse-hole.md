@@ -1,7 +1,6 @@
 ---
 layout: post
 author: ken
-permalink: /rat-in-a-mouse-hole
 ---
 
 Welcome to the first of Project GHOST’s Datalogs.
