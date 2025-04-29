@@ -8,7 +8,9 @@ Hello again.
 Life just seems to get busier and busier—much like it will be for our future operatives.
 But before that can happen, there's still a lot of work ahead. 
 
-This past month has been heavy on programming. After finishing some C++ game programming coursework and a few forays into side projects, I'm feeling much more confident in using C++ within Unreal.I've begun converting my base character scripts from Blueprints to C++. While I've gained a new appreciation for Blueprints, they're becoming less practical as the systems grow more complex. 
+This past month has been heavy on programming. After finishing some C++ game programming coursework and a few forays into side projects, I'm feeling much more confident in using C++ within Unreal.    
+
+I've begun converting my base character scripts from Blueprints to C++. While I've gained a new appreciation for Blueprints, they're becoming less practical as the systems grow more complex. 
 
 I'm hoping this early groundwork pays off later, when the game logic inevitably becomes more intricate. Ideally, I'll spend more time iterating and testing with less time untangling. I also want to lean more into Unreal's component-based design, breaking off non-specific functionality from the base character into smaller, more modular pieces. Right now, the base character handles everything—from Health and Movement to Combat features like Flinching and Dodging. That's been fine so far, but not every character will need all of that.
 
