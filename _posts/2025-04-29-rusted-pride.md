@@ -3,7 +3,7 @@ layout: post
 author: ken
 ---
 
-Hello again,
+Hello again.
 
 Life just seems to get busier and busier—much like it will be for our future operatives.
 But before that can happen, there's still a lot of work ahead. 
@@ -16,7 +16,7 @@ Enemy aggression is another area I've been experimenting with. It's tricky to st
 
 On another note, learning about **AnimationNotifies** has been an exceptional asset. Both the Deluge enemy and the player character use notifies and montages to trigger animation-based events, which has streamlined a lot of behavior syncing.
 
-![Deluge Attack Animation Notifies](/assets/images/deluge_attack_montage_an.png "Animation Notifies")
+![Deluge Attack Animation Notifies](/projectghostsite/assets/images/deluge_attack_montage_an.png "Animation Notifies")
 
 Looking ahead, I want to expand this system with a hitbox visualization tool—ideally one that's adjustable in the animation preview itself. Right now, I use notifies to set a hitbox's location, radius, and optionally attach it to a skeletal bone. Since the attack animations can vary so much, it would be great to tweak these values without having to jump into a full playtest every time—especially for minor adjustments. 
 
