@@ -3,7 +3,7 @@ layout: post
 author: ken
 ---
 
-Hello again,
+Hello again.
 
 Life just seems to get busier and busier—much like it will be for our future operatives.
 But before that can happen, there's still a lot of work ahead. 
