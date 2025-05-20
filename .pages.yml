@@ -11,7 +11,7 @@ media:
     extensions: [ jpg, png, webp ]
 content:
   - label: Home Page
-    path: pages/about.md
+    path: about.md
     name: homepage
     type: file
     fields:
