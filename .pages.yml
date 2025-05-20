@@ -26,10 +26,16 @@ content:
     label: Posts
     type: collection
     path: _posts
+    filename: "{primary}.md"
     view: 
       fields: [ title, published, date ]
+      primary: title
+      sort: [ date, title ]
+      default:
+        sort: date
+        order: asc
     fields:
-      - { name: title, label: Title, type: string }
+      - { name: title, label: Title, type: string, required: true }
       - { name: layout, type: string, hidden: true, default: post }
       - { name: date, label: Date, type: date }
       - { name: comments, label: Comments, type: boolean, default: false, hidden: true }
