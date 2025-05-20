@@ -21,24 +21,6 @@ content:
       - { name: meta_description, label: Meta Description, type: string, options: { maxlength: 180 }}
       - { name: meta_title, label: Meta Title, type: string, options: { maxlength: 120 }}
       - { name: subscribe, label: Subscribe, type: boolean, default: false, hidden: true }
-    
-  - name: pages
-    label: Main Pages
-    type: collection
-    path: pages
-    filename: "{primary}.md"
-    view:
-      fields: [ title, order ]
-      primary: title
-      sort: [ order, title ]
-      default:
-        sort: order
-        order: asc
-    fields:
-      - { name: title, label: Title, type: string, required: true }
-      - { name: description, label: Description, type: string, options: { maxlength: 180 }}
-      - { name: order, label: Order, type: number }
-      - { name: body, label: Body, type: rich-text }
       
   - name: posts
     label: Posts
