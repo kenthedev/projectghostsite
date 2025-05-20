@@ -42,12 +42,11 @@ content:
     type: collection
     path: _authors
     view: 
-      fields: [ title, published, date ]
+      fields: [ short_name, name, position ]
     fields:
-      - { name: title, label: Title, type: string }
-      - { name: layout, type: string, hidden: true, default: post }
-      - { name: date, label: Date, type: date }
-      - { name: description, label: Description, type: string, options: { maxlength: 160 }}
+      - { name: short_name, label: Short Name, type: string }
+      - { name: name, label: Name, type: string }
+      - { name: position, label: Position, type: string }
       - { name: image, label: Image, type: image }
       - { name: body, label: Body, type: rich-text }
   
