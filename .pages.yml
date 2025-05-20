@@ -11,7 +11,7 @@ media:
     extensions: [ jpg, png, webp ]
 content:
   - label: Home Page
-    path: pages/home.md
+    path: pages/about.md
     name: homepage
     type: file
     fields:
@@ -43,7 +43,7 @@ content:
   - name: posts
     label: Posts
     type: collection
-    path: collections/_posts
+    path: _posts
     view: 
       fields: [ title, published, date ]
     fields:
@@ -55,10 +55,10 @@ content:
       - { name: image, label: Image, type: image }
       - { name: body, label: Body, type: rich-text }
 
-  - name: projects
-    label: Projects
+  - name: authors
+    label: Authors
     type: collection
-    path: collections/_projects
+    path: _authors
     view: 
       fields: [ title, published, date ]
     fields:
