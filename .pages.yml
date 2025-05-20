@@ -1,14 +1,14 @@
 media:
-  - name: files
-    label: Files
-    input: assets/files
-    output: /media/files
-    categories: [ document ]
   - name: images
     label: Images
     input: assets/images
-    output: /media/images
+    output: /assets/images 
     extensions: [ jpg, png, webp ]
+  - name: files
+    label: Files
+    input: assets/files
+    output: /assets/files
+    categories: [ document ]
 content:
   - label: Home Page
     path: about.md
