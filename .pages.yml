@@ -2,7 +2,7 @@ media:
   - name: images
     label: Images
     input: assets/images
-    output: /assets/images 
+    output: /projectghostsite/assets/images 
     extensions: [ jpg, png, webp ]
   - name: files
     label: Files
