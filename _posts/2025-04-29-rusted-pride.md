@@ -14,7 +14,7 @@ I've begun converting my base character scripts from Blueprints to C++. While I'
 
 I'm hoping this early groundwork pays off later, when the game logic inevitably becomes more intricate. Ideally, I'll spend more time iterating and testing with less time untangling. I also want to lean more into Unreal's component-based design, breaking off non-specific functionality from the base character into smaller, more modular pieces. Right now, the base character handles everything—from Health and Movement to Combat features like Flinching and Dodging. That's been fine so far, but not every character will need all of that.
 
-Enemy aggression is another area I've been experimenting with. It's tricky to strike the right balance—making enemies feel assertive without being unfair. This will undoubtedly need continual tweaking as more enemy types are added. Narratively, figuring how enemy categorization has been a task more fun than I anticipated.
+Enemy aggression is another area I've been experimenting with. It's tricky to strike the right balance—making enemies feel assertive without being unfair. This will undoubtedly need continual tweaking as more enemy types are added. Narratively, establishing enemy categorization has been a task even more fun than I anticipated.
 
 On another note, learning about **AnimationNotifies** has been an exceptional asset. Both the Deluge enemy and the player character use notifies and montages to trigger animation-based events, which has streamlined a lot of behavior syncing.
 
