@@ -10,7 +10,7 @@ Using a gamepad with Unreal's Enhanced Input Actions has been relatively smooth 
   
 Ran into a nasty 'Assertion failed' bug with the CommonUISubsystem that's causing a crash. So far I've had minimal luck with determining its exact cause. Wouldn't hurt to spend more time cleaning up the UI, now that I know more about how it works.  
   
-On the brighter side, I'm feeling a lot better about how the story's progressing. I've gotten a stronger idea of the exact mood and atmosphere I'm wanting for the story. Not planning to go full splatterpunk with the writing, but I don't want to shy away from including murkier and grimy parts. This is still an action-_horror_ game mind you.  
+On the brighter side, I'm feeling a lot better about how the story's progressing. I've gotten a stronger idea of the exact mood and atmosphere I'm wanting for the story. Not planning to go full splatterpunk with the writing, but I don't want to shy away from including murkier and grimy parts. This is still an action-*horror* game mind you.  
   
 My experiments with the visuals have started shaping up nicely.
 
