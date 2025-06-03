@@ -24,7 +24,7 @@ Now that I've cleaned up saving and loading, I've moved back to continuing work 
 
 <p style="text-align: center"><img src="/projectghostsite/assets/images/Dialogue.png"></p>
 
-There's a ton that goes into something like a dialogue system. Showing speaker names, portraits, skipping text, branching choices, and so much more. I've been expanded the system with a radio call style of messaging for the player to hear additional info and conversations from teammates while on missions. I really enjoyed how much personality games like Dynasty Warriors Gundam 2 field audio and Persona 5 Royal's metaverse conversations added to their characters.
+There's a ton that goes into something like a dialogue system. Showing speaker names, portraits, skipping text, branching choices, and so much more. I've been expanded the system with a radio call style of messaging for the player to hear additional info and conversations from teammates while on missions. I really appreciated how much personality the characters gained in Dynasty Warriors: Gundam and Persona 5 Royal, just through the addition of field calls and Metaverse conversations. It's a minimalist approach that provides a wealth of engagement.
 
 <p style="text-align: center"><img src="/projectghostsite/assets/images/MementosConvo.png"></p>
 
