@@ -4,8 +4,8 @@ layout: post
 date: 2025-05-31
 comments: false
 ---
-Lots of fighting with Common UI.  
-  
+Lots of fighting with Common UI...
+
 Using a gamepad with Unreal's Enhanced Input Actions has been relatively smooth sailing for the most part, but adding Keyboard & Mouse controls has been grating to say the least.  
   
 Ran into a nasty 'Assertion failed' bug with the CommonUISubsystem that's causing a crash. So far I've had minimal luck with determining its exact cause. Wouldn't hurt to spend more time cleaning up the UI, now that I know more about how it works.  
