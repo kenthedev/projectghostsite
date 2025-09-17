@@ -3,7 +3,6 @@ title: Scorched Earth
 layout: post
 date: 2025-09-17
 comments: false
-image: /assets/images/sinkingbug.png
 ---
 This summer’s been a real scorcher.  
   
@@ -12,6 +11,8 @@ And not just because of the weather. These last few months I’ve battling a men
 There’s an old X-Men comic that’s been in the back in my mind lately. It’s of Cyclops sharing that he had dozens of contingency plans in place, just in case something went sideways. I’ve always found that sort of thing amusing, cool even. But there’s something about that concept that’s been nagging at me. You could say I’m in that mode right now: planning, reevaluating goals, and realigning where and what I want to focus on.
 
 I absolutely love brainstorming. Holding all these grandiose scenarios and plots in my head, bursting at the seems to be made real. It’s addictive. But what sucks about it is that I can’t magically make all those ideas appear overnight.
+
+<p style="text-align: center"><br><img src="/assets/images/sinkingbug.png" alt="Sinking Bug"></p>
 
 It’s so easy for things to sound great on paper. Lately, I’ve been learning to get a better sense of what’s actually possible, something that ironically hasn’t really been helped by how much more comfortable I’ve gotten with Unreal Engine. The more capable I feel technically, the more ideas flood in, but that doesn’t mean they’re all doable right now, if even necessary.
 
