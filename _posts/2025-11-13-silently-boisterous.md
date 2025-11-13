@@ -6,8 +6,6 @@ comments: false
 description: The work continues.
 excerpt_separator: <!--more-->
 ---
-Greetings.  
-
 The work continues.
 <!--more-->
 
