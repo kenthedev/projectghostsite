@@ -3,8 +3,10 @@ title: Rat In A Mouse Hole
 layout: post
 date: 2025-03-17
 comments: false
+excerpt_separator: <!--more-->
 ---
 Welcome to the first of Project GHOST’s Datalogs. It took a lot of digging to get here.
+<!--more-->
 
 This is a passion project inspired by a lot of things—games, films, stories, yet above all else, it's driven by a dream. In pursuit of it, I've been fortunate to learn from and work alongside a ton of talented people. And somehow that's been slowly coming together in the form of a brutal, high-stakes hunt; where every fight is a desperate push against the impossible, dragging you deeper into something you shouldn't understand.
 
