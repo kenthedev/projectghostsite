@@ -3,8 +3,10 @@ title: Common Ground
 layout: post
 date: 2025-05-31
 comments: false
+excerpt_separator: <!--more-->
 ---
 Lots of fighting with Common UI...
+<!--more-->
 
 Using a gamepad with Unreal's Enhanced Input Actions has been relatively smooth sailing for the most part, but adding Keyboard & Mouse controls has been grating to say the least.  
   
