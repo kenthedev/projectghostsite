@@ -4,9 +4,13 @@ layout: post
 date: 2025-11-13
 comments: false
 description: The work continues.
+excerpt_separator: <!--more-->
 ---
-Greetings,  
-  
+Greetings.  
+
+The work continues.
+<!--more-->
+
 One of my favorite game series growing up was the "Dragon Quest" games. My introduction was with the ninth installment, "Sentinels of the Starry Skies". For those unfamiliar, these are classic adventure titles starring heroes seeking to go out to make the world a better place. And while I fell in love with the series protagonists for their nobility and general sense of do-gooding, I realized quite swiftly, I did NOT want to write that here, nor did it feel natural to me. I'm more interested in a protagonist that wants to do good amidst dysfunction, while not being part of an entirely benevolent world. Something gritty or grimy even. Like a slug pulling itself through a drain pipe. The goal is to make something harmoniously messy. It's what I like.  
   
 Interestingly enough, writing this story has required me to revaluate how I perceive and interpret other work too. What do I like? What do I dislike? How do I think this could've been done better? What made it worse? All leading to a healthy dose of evaluation and refinement. The treatments so far have seen more than their fair share of revisions and edits. And I rest assured, that they'll continue to as the project progresses. And in making changes, I soon after discovered the importance of having a system in place that's **less annoying to change.**  
