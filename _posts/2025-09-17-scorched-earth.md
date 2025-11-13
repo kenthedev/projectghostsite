@@ -3,9 +3,10 @@ title: Scorched Earth
 layout: post
 date: 2025-09-17
 comments: false
+excerpt_separator: <!--more-->
 ---
-This summer’s been a real scorcher.  
-  
+This summer’s been a real scorcher.
+<!--more-->
 And not just because of the weather. These last few months I’ve battling a mental heatwave: too many ideas, not enough time.
 
 There’s an old X-Men comic that’s been in the back in my mind lately. It’s of Cyclops sharing that he had dozens of contingency plans in place, just in case something went sideways. I’ve always found that sort of thing amusing, cool even. But there’s something about that concept that’s been nagging at me. You could say I’m in that mode right now: planning, reevaluating goals, and realigning where and what I want to focus on.
